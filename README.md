@@ -58,18 +58,8 @@ blog-admin/
 │   │   ├── testimony/
 │   │   ├── user/
 │   ├── utils/
-│   ├── App.css
 │   ├── App.jsx
-│   ├── index.css
 │   ├── main.jsx
-│── .env
-│── .gitignore
-│── eslint.config.js
-│── index.html
-│── package.json
-│── package-lock.json
-│── README.md
-│── vite.config.js
 ```
 
 ## Features
