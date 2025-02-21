@@ -18,7 +18,7 @@ To set up and run the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/ayuna-admin.git
+git clone https://github.com/Al-Iskandari/blog-admin-frontend-react-vite.git
 
 # Navigate to the project directory
 cd blog-admin
