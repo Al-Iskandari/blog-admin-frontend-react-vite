@@ -1,0 +1,40 @@
+.select2{
+    width: 100% !important;
+  }
+  .wrapper-class {
+    padding: 1rem;
+    border: 1px solid #ccc;
+  }
+  .editor-class {
+    background-color:lightgray;
+    padding: 1rem;
+    border: 1px solid #ccc;
+  }
+  .toolbar-class {
+    border: 1px solid #ccc;
+  }
+  .slider-range {
+    display: flex;
+  }
+  output {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    align-self: center;
+    background: #4b49ac;
+    color: white;
+    padding: 5px 10px;
+    margin-left: 8px;
+    border-radius: 3px;
+  }
+  output:after {
+    position: absolute;
+    top: 9px;
+    left: -7px;
+    width: 0;
+    height: 0;
+    border-top: 7px solid transparent;
+    border-right: 7px solid #4b49ac;
+    border-bottom: 7px solid transparent;
+    content: '';
+  }
